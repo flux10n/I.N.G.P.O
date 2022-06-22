@@ -1,5 +1,5 @@
 # N63H3K
-Kumpulan alat/tools agar mudah untuk melakukan hacking dan pestest terhadap suatu website dab.
+Kumpulan alat/tools agar mudah untuk melakukan hacking dan pentest terhadap suatu website, dsb.
 
 
 Checker :
