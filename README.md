@@ -5,49 +5,49 @@ Kumpulan alat/tools agar mudah untuk melakukan hacking dan pentest terhadap suat
 Checker :
 ---------
 
-https://search.censys.io/
+* https://search.censys.io/
 
 
 Zero-day :
 ---------
 
-http://sq542reyqwagfkghieehykb6hh6ohku5irarrrbeeo5iyozdbhe5n3id.onion/
+* http://sq542reyqwagfkghieehykb6hh6ohku5irarrrbeeo5iyozdbhe5n3id.onion/
 
 
 Mirror :
 ---------
 
-http://zone-h.org
+* http://zone-h.org
 
 
 DDOS :
 ---------
 
-http://www.digitalattackmap.com
+* http://www.digitalattackmap.com
 
 
 Lookup :
 ---------
 
-https://www.yougetsignal.com/
+* https://www.yougetsignal.com/
 
 
 Hacking Tools :
 ---------
 
-https://www.kitploit.com
+* https://www.kitploit.com
 
 
 Forum :
 ---------
 
-http://www.hackforums.net/
+* http://www.hackforums.net/
 
 
 Leaked :
 ---------
 
-http://bugmenot.com/
+* http://bugmenot.com/
 
 
 Vulnerability :
@@ -61,15 +61,15 @@ Vulnerability :
 Lab Pentest :
 ---------
 
-http://103.47.61.4/
-https://anonfiles.com/Z4D01erfyf/DVWA-master_zip
+* http://103.47.61.4/
+* https://anonfiles.com/Z4D01erfyf/DVWA-master_zip
 
 
 Hash :
 ---------
 
-https://hashes.com/en/decrypt/hash
-https://scriptasylum.com/
+* https://hashes.com/en/decrypt/hash
+* https://scriptasylum.com/
 
 
 Spam :
@@ -82,10 +82,10 @@ Spam :
 News :
 ---------
 
-https://thehackernews.com/
+* https://thehackernews.com/
 
 
 Csrf :
 ---------
 
-https://labsosio.ui.ac.id/wp-snapshots/tmp/tools/csrf
+* https://labsosio.ui.ac.id/wp-snapshots/tmp/tools/csrf
