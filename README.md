@@ -53,11 +53,9 @@ http://bugmenot.com/
 Vulnerability :
 ---------
 
-https://cxsecurity.com/
-
-https://www.exploit-db.com/
-
-https://www.vulnhub.com/
+* https://cxsecurity.com/
+* https://www.exploit-db.com/
+* https://www.vulnhub.com/
 
 
 Lab Pentest :
@@ -77,9 +75,8 @@ https://scriptasylum.com/
 Spam :
 ---------
 
-https://www.dnsbl.info/dnsbl-database-check.php
-
-https://www.serials.ws/
+* https://www.dnsbl.info/dnsbl-database-check.php
+* https://www.serials.ws/
 
 
 News :
