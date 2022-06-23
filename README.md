@@ -1,4 +1,4 @@
-# N63H3K whwhwwkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+# N63H3K
 Kumpulan alat/tools agar mudah untuk melakukan hacking dan pentest terhadap suatu system, dsb.
 
 
