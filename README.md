@@ -2,10 +2,16 @@
 Kumpulan alat/tools agar mudah untuk melakukan hacking dan pentest terhadap suatu system, dsb.
 
 
+Text-Ascii-Generator :
+---------
+
+* http://patorjk.com/software/taag/
+
+
 Twitter-js :
 ---------
 
-* https://publish.twitter.com/#
+* https://publish.twitter.com/
 
 
 Checker :
