@@ -1,5 +1,5 @@
 # N63H3K
-Kumpulan alat/tools agar mudah untuk melakukan hacking dan pentest terhadap suatu system, dsb.
+Kumpulan situs berisikan tools agar untuk mempermudah saat melakukan hacking dan pentest terhadap suatu system, dan web.
 
 
 Text-Ascii-Generator :
