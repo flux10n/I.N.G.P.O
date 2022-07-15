@@ -1,4 +1,4 @@
-Text-Ascii-to-img : vvvggghjjjjjjjjjhhhh
+Text-Ascii-to-img : 
 ---------
 
 * https://www.text-image.com/convert/ascii.html
